@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is Taegyu's github world
 
 <!--
 **leetaekyu2077/leetaekyu2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
