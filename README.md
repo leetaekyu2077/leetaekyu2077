@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBFAB0,100:FB9C17&height=200&section=header&text=This%20is%20Taegyu's%20Github%20World👋&fontSize=40&fontAlignY=40&fontColor=FFFFFF&animation=twilkling)
 
-<a href="https://www.notion.so/DDoksddoks-4d5d0993f1154587b925b82cbc148c48" target="_blank"><img src="https://img.shields.io/badge/Notion-424242?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="https://velog.io/@leetaekyu2077" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://www.notion.so/DDoksddoks-4d5d0993f1154587b925b82cbc148c48" target="_blank"><img src="https://img.shields.io/badge/Notion (for CS Study)-424242?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@leetaekyu2077" target="_blank"><img src="https://img.shields.io/badge/Velog (for Development Study)-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsqls2008)](https://solved.ac/dnjsqls2008/)
 
