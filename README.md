@@ -7,8 +7,8 @@
 
 ## Study notes📚
 
-#### &nbsp;&nbsp; * CS 공부 기록 : <a href="https://www.notion.so/DDoksddoks-4d5d0993f1154587b925b82cbc148c48" target="_blank"><img src="https://img.shields.io/badge/Notion (CS )-424242?style=flat&logo=Notion&logoColor=white"/></a>
-#### &nbsp;&nbsp; * 개발 & 알고리즘 공부 기록 : <a href="https://velog.io/@leetaekyu2077" target="_blank"><img src="https://img.shields.io/badge/Velog (Development & Algorithm)-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+#### &nbsp;&nbsp; * CS & 개발 강의 공부 기록 : <a href="https://www.notion.so/DDoksddoks-4d5d0993f1154587b925b82cbc148c48" target="_blank"><img src="https://img.shields.io/badge/Notion-424242?style=flat&logo=Notion&logoColor=white"/></a>
+#### &nbsp;&nbsp; * 알고리즘 공부 & 나의 개발 기록 : <a href="https://velog.io/@leetaekyu2077" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 
 ## Stats📊
