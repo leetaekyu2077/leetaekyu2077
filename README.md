@@ -9,6 +9,8 @@
 
 #### &nbsp;&nbsp; ◦ 공부, 프로젝트 기록 : <a href="https://www.notion.so/DDoksddoks-4d5d0993f1154587b925b82cbc148c48" target="_blank"><img src="https://img.shields.io/badge/Notion-424242?style=flat&logo=Notion&logoColor=white"/></a>
 #### &nbsp;&nbsp; ◦ 블로그 : <a href="https://velog.io/@leetaekyu2077" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+&nbsp;
+&nbsp;
 
 
 ## Stats📊
